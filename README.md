@@ -28,3 +28,4 @@ Este proyecto consiste en un formulario web básico para la recolección de dato
    ```bash
    git clone https://github.com/tu-usuario/formulario-clientes.git
 # formulario-clientes-js
+# formulario-clientes-js-v2
